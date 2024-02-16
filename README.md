@@ -3,4 +3,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 SECP1513-06 TEKNOLOGI DAN SISTEM MAKLUMAT (TECHNOLOGY AND INFORMATION SYSTEM) GROUP 2 (JELLYBEAN) INDIVIDUAL ASSIGNMENT GITHUB E-PORTFOLIO
 
-* 🖥️  See my portfolio at [MY E-PORTFOLIO](http://https://sheylafyz.github.io/)
+* 🖥️  See my portfolio at [MY E-PORTFOLIO](https://sheylafyz.github.io/)
